@@ -3,7 +3,6 @@
 This repo contains the solutions to the questions of the Open Book "How to Think Like a Computer Scientist: Learning with Python 3 `3rd Edition`", by Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers. [Book Link - Original](http://openbookproject.net/thinkcs/python/english3e/)
 
 
-I have also included some questions from the [Interactive Edition](https://runestone.academy/runestone/books/published/thinkcspy/index.html) of this book. I recommend going through the excercises of this version as well.
 
 ## Table of Contents from the Original Book:
 
